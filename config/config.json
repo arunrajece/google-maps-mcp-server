@@ -1,0 +1,20 @@
+{
+  "googleMaps": {
+    "apiKey": "GOOGLE_API_KEY"
+  },
+  "server": {
+    "port": 3001,
+    "host": "localhost"
+  },
+  "routing": {
+    "defaultTrafficModel": "best_guess",
+    "maxWaypoints": 25,
+    "maxAlternatives": 3,
+    "units": "metric"
+  },
+  "costs": {
+    "fuelPricePerLiter": 1.50,
+    "vehicleFuelEfficiency": 8.0,
+    "tollEstimatePerKm": 0.05
+  }
+}
