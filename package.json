@@ -14,6 +14,6 @@
     "@googlemaps/google-maps-services-js": "^3.3.42"
   },
   "keywords": ["mcp", "google-maps", "routing", "claude"],
-  "author": "Your Name",
+  "author": "TechVisionaryLead",
   "license": "MIT"
 }
